@@ -1,0 +1,98 @@
+
+.fennel-footer {
+    background-color: #253439;
+    margin-top:auto; 
+    min-height:50px;
+  }
+  .fennel-footer-container {
+    width: 90%;
+    max-width: 1000px;
+    margin:0 auto;
+  }
+  .fennel-footer-logo-image {
+    max-width: 220px;
+  }
+  
+  .fennel-row {
+    display: flex;
+
+    justify-content: space-between;
+  }
+  
+  
+  .fennel-footer-lists {
+    padding: 40px 0;
+  }
+  .fennel-footer-list-item {
+    margin-bottom: 8px;
+    
+  
+  }
+  
+  .fennel-footer-title {
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+  }
+  .fennel-footer-text {
+    font-size: 13px;
+    line-height: 20px;
+    color: #ddd;
+  }
+  .fennel-footer-link {
+    font-size: 13px;
+    line-height: 23px;
+    color: white;
+  
+  }
+  
+  .fennel-sub-footer {
+    padding: 15px 0;
+    border-top: 1px solid rgb(34, 25, 61);
+    line-height: 0;
+    
+  }
+  
+  
+
+   .fennel-footer-link
+   {
+    font-size: 12px;
+      
+        float: left;
+   }
+    .fennel-footer-text {
+      font-size: 12px;
+      
+      color: rgba(255, 255, 255, 0.815);
+        display: grid;
+          float: left;
+    }
+  
+  
+  body {
+    font-family: Arial,sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+  }
+  ul, li, h4, p {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  .fennel-footer {
+    width: 100%;
+    bottom: 0;
+    min-height:10px; 
+  }
+
+  .foot-sign-in{
+    text-align: center;
+margin-bottom: 40px;
+  }
+
+  
